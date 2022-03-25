@@ -1,4 +1,4 @@
-# Pryecto final de JavaScript
+# Proyecto final de JavaScript
 _Este es un proyecto hecho durante el curso de JavaScript de Coderhouse. Trata sobre un E-commerce de componentes de PC, hecho compretamente con vanilla JS y JQuery_
 
 ## Demo
